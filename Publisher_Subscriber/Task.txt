@@ -1,0 +1,4 @@
+In this task, you will use a publisher node to send random values to a ‘random’ topic. You will create 3 subscriber nodes sub1, sub2 and sub3 which will subscribe to the ‘random’ topic and use the received random values to perform additional tasks:
+Sub1: Triples the received values and displays the result
+Sub2: Displays whether the received value is a multiple of 3 or not
+Sub3: Calculates the factorial of the received values and displays them
