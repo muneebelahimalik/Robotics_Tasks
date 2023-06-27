@@ -1,6 +1,6 @@
 # Robotics Tasks
 
-This repository contains the code and resources for various robotics tasks implemented in Gazebo simulation using the ROS (Robot Operating System) framework on Linux.
+This repository contains the code and resources for various robotics tasks implemented in Gazebo simulation 🤖 using the ROS (Robot Operating System) framework on Linux.
 
 ## Task List
 
