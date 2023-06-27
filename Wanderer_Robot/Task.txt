@@ -1,0 +1,1 @@
+In this task, you will get range values from the front laser. Before starting, you need to modify the laser via the model.sdf file (camera-in-front version) in the neuronbot2_gazebo package. Edit the laser sensor so that it has 36 samples, 1.57 max angle and -1.57 min angle. The laser will now span around 180 degrees. 
