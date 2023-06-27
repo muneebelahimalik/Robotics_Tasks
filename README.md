@@ -35,3 +35,19 @@ Make sure you have the correct versions of ROS and Gazebo installed on your Linu
 ## Usage
 
 1. Clone the repository:
+git clone https://github.com/your-username/Robotics-Tasks.git
+
+2. Install the required dependencies (ROS, Gazebo, etc.) according to their respective documentation.
+
+3. Navigate to the desired task directory:
+
+4. Build the ROS packages:
+
+5. Launch the simulation:
+
+Make sure to modify the launch and configuration files as necessary for your specific setup and environment.
+
+## Contributing
+
+Contributions to this repository are welcome. If you have any improvements, bug fixes, or new tasks to add, feel free to submit a pull request.
+
