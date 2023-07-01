@@ -26,8 +26,8 @@ This repository contains the code and resources for various robotics tasks imple
 
 To run the robotics tasks in this repository, you need to have the following dependencies installed:
 
-- ROS (Robot Operating System): [Version X.X.X](https://ros.org)
-- Gazebo: [Version X.X.X](http://gazebosim.org/)
+- ROS (Robot Operating System) https://ros.org/
+- Gazebo: http://gazebosim.org/
 - ...
 
 Make sure you have the correct versions of ROS and Gazebo installed on your Linux system before proceeding.
